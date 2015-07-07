@@ -1,2 +1,2 @@
-# DiameterRoClient
-A very specific diameter client this code can be modified to meet you requirements.
+# SipClient
+A SIP Client which can be used for developing sip applications and testing them
